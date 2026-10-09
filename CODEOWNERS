@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @t-shev
+/src/backend/database.py      @t-shev
+/src/backend/routers/auth.py  @t-shev
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @t-shev
